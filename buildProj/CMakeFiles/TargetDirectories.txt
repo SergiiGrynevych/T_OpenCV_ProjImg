@@ -1,0 +1,3 @@
+C:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg/buildProj/CMakeFiles/T_OpenCV_ProjImg.dir
+C:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg/buildProj/CMakeFiles/ALL_BUILD.dir
+C:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg/buildProj/CMakeFiles/ZERO_CHECK.dir

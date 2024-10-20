@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCV_ProjImg\T_OpenCV_ProjImg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\MULTIMEDIA\StudyPROGRAMMING\T_OpenCV_ProjImg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{960F3D8B-535E-33B4-A614-35A9948C12F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
