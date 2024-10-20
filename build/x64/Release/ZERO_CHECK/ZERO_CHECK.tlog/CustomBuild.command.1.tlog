@@ -1,0 +1,10 @@
+^C:\MULTIMEDIA\STUDYPROGRAMMING\T_OPENCV_PROJIMG_CLONED\BUILD\CMAKEFILES\19ED32F1631EE34065854C431422D56B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg_cloned -BC:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg_cloned/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg_cloned/build/T_OpenCV_ProjImg.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
