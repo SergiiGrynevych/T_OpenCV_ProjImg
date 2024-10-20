@@ -1,0 +1,10 @@
+^C:\MULTIMEDIA\STUDYPROGRAMMING\T_OPENCV_PROJIMG\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg -BC:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg/build --check-stamp-file C:/MULTIMEDIA/StudyPROGRAMMING/T_OpenCV_ProjImg/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
